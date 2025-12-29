@@ -1,0 +1,7 @@
+{
+  "name": "ElectroZon ",
+  "description": "A premium, high-performance electronics e-commerce landing page inspired by electrozon.ma, featuring a smart AI shopping assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
